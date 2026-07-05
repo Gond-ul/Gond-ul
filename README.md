@@ -16,6 +16,7 @@ daemon :~$ ls ~/projects --sort=signal
 
 | project | what it is | state |
 |---|---|---|
+| **recall** | natural-language search across 35+ years of a design firm's proposals — a multi-lane rag platform: pgvector on postgres, llm tool-use routing, cross-encoder reranking, agentic ocr over a scanned archive | `private mode` |
 | **[GhostMap](https://github.com/Gond-ul/GhostMap)** | discovers airtable workspaces, extracts schemas via the metadata api, mirrors them into postgres / sql server | `public` |
 | **[TST](https://github.com/Gond-ul/TST)** | token & seat tuner — decision-support for autodesk revit licensing (named seats vs flex tokens) | `public` |
 | **felmo v2** | a movie-recommendation platform you can talk to — tmdb ingestion → postgres + pgvector → served through daemon | `in the lab` |

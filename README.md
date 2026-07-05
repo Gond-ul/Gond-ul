@@ -8,7 +8,7 @@
 daemon :~$ whoami
 ```
 
-**data engineer · new york.** i build data pipelines by day and a terminal-flavored corner of the internet at night. postgres believer. i like tools that solve one problem properly.
+**data engineer · san francisco.** i build data pipelines by day and a terminal-flavored corner of the internet at night. postgres believer. i like tools that solve one problem properly.
 
 ```text
 daemon :~$ ls ~/projects --sort=signal

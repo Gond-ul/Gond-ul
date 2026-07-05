@@ -8,7 +8,7 @@
 daemon :~$ whoami
 ```
 
-**data engineer · san francisco.** i build data pipelines by day and a terminal-flavored corner of the internet at night. postgres believer. i like tools that solve one problem properly.
+**data engineer · san francisco.** systems design · data engineering · ai-ready databases. currently leading firm-wide data unification and ai enablement — rag knowledge systems, predictive staffing models, agentic workflows over enterprise data. before that: database development and quantitative strategy for blockchain products. airtable mvp. persian + english, natively.
 
 ```text
 daemon :~$ ls ~/projects --sort=signal
@@ -25,7 +25,11 @@ daemon :~$ ls ~/projects --sort=signal
 daemon :~$ cat stack.txt
 ```
 
-`python` · `postgres` · `sql server` · `airtable api` · `streamlit` · `docker` · `node` · `swiftui` · `claude api`
+| | |
+|---|---|
+| **data** | `SQL` `Python` `SSIS` `ETL` `dimensional modeling` `Erwin` `Power BI` `Tableau` `R` `data pipelines` |
+| **ai** | `LLMs` `RAG` `OCR` `agentic workflows` `knowledge management systems` `predictive modeling` |
+| **platforms** | `SQL Server` `PostgreSQL` `Azure` `DBOS` `Airtable` `SharePoint` `Claude Code` |
 
 ```text
 daemon :~$ daemon --about

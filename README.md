@@ -11,11 +11,7 @@ daemon :~$ whoami
 **data engineer · san francisco.** 
 
 
-| | |
-|---|---|
-| **data** | `SQL` `Python` `SSIS` `ETL` `dimensional modeling` `Erwin` `Power BI` `Tableau` `R` `data pipelines` |
-| **ai** | `LLMs` `RAG` `OCR` `agentic workflows` `knowledge management systems` `predictive modeling` |
-| **platforms** | `SQL Server` `PostgreSQL` `Azure` `DBOS` `Airtable` `SharePoint` `Claude Code` |
+
 
 
 
